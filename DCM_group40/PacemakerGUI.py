@@ -218,7 +218,6 @@ class RegisterationWindow:
     def __init__(self, userID):
         self.window = tkinter.Tk()
         self.UserID = userID
-        print(self.UserID)
         self.window.wm_title("Registration")
         bg_color = "Blue"
         fg_color = "white"
