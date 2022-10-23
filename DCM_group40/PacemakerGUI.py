@@ -223,7 +223,6 @@ class RegisterationWindow:
         bg_color = "Blue"
         fg_color = "white"
         cha_color = "black"
-        self.mode = ""
 
         self.firstname = tkinter.StringVar()
         self.lastname = tkinter.StringVar()
